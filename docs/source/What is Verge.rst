@@ -1,12 +1,12 @@
-Usage
-=====
+What is Verge?
+==============
 
 .. _installation:
 
 Installation
 ------------
 
-To use Lumache, first install it using pip:
+To use Verge, go to https://verge.mybluemix.net/#/login:
 
 .. code-block:: console
 
