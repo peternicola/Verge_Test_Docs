@@ -1,7 +1,7 @@
 What is Verge?
 ==============
 
-.. _installation:
+.. _Visit Verge:
 
 Installation
 ------------
